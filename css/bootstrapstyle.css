@@ -145,6 +145,9 @@
 	display:flex;
 	justify-content: center;
 }
+.form-center, h1{
+	color: black;
+}
 .container {
   position:relative;
 }
